@@ -10,7 +10,7 @@ Orchestrator classifies math operations into **5** key groups:
 
 | Type          | Description                                                                                                                                                          |
 |:--------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Boolean       | Compares two values to determine their equality or relative coparison.<br/>*Examples: `==`, `!=`, `<`, `<=`, `>`, or `>=`*                                           |
+| Boolean       | Compares two values to determine their equality or relative comparison.<br/>*Examples: `==`, `!=`, `<`, `<=`, `>`, or `>=`*                                           |
 | Numeric Math  | Performs a unary operation on a single value or binary operation on two or more values.<br/>*Examples: `+`, `-`, `*`, `/`, `-Unary`, `+Unary`, `%`, or `^` (power).* |
 | Bitwise       | Performs bitwise operations on a given numeric value.<br/>*Examples: Shift left, Shift right, And, Or, Xor, or Negate.*                                              |
 | Logic         | Performs a logical comparison between one or two values.<br/>*Examples: And, Or, Xor, and Not*                                                                       |
